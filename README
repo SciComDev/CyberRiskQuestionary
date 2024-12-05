@@ -1,0 +1,18 @@
+~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
+~*~*~*~   Project Name: Cyber Risk Questionary    ~*~*~*~
+~*~ Author:      Devin Schafer                        ~*~
+~*~ Date:        5 Dec 2024                           ~*~
+~*~ Description: This program will create an app that ~*~
+~*~              will ask questions from users and    ~*~
+~*~              provide information relating to      ~*~
+~*~              cyber-security.                      ~*~
+~*~*~*~                                           ~*~*~*~
+~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
+
+Platform: .NET MAUI developed in Visual Studio for mostly Android devices.
+
+Use: This project forms part of a research proposal for a student Sinoxolo Twani,
+     his Eskom Expo project is a social science protect that investigates the
+     risk of cybersecurity threat to member of his community. The project will
+     also address these risks in the form of information for the users.
+
